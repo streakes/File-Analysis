@@ -1,0 +1,8 @@
+<Project Version="2" Name="KeyBiscayne" FolderName="Packages">
+	<OutputDirectory> .\Compiled Package Output</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\streakesflies-kb.xml</Package>
+	</Packages>
+</Project>
+
